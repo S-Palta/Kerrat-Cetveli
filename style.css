@@ -1,0 +1,20 @@
+/* for every tag in HTML */
+* {
+    background-color: #f0f8ff;
+}
+
+/* table and its list */
+
+table {
+    border: 1px #ffebcd;
+}
+
+/* for our Motherland Russia */
+img:first-of-type {
+    width: 20vw;
+    height: 20vh;
+}
+img:nth-of-type(2) {
+    height: 15vh;
+    position: relative;
+}
